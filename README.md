@@ -1,6 +1,6 @@
 # 🦔 Porcupine (Temporal Vector Steering)
 
-**16 movement directions with WASD on any keyboard! (or 98 when including Q & E!)**
+**16 directional WASD movement on any keyboard! (or 98 when including Q & E!)**
 
 **Porcupine** (AKA Temporal Vector Steering or TVS) is a novel input parsing algorithm for 3D navigation. It extracts **98 unique directions** from a standard digital keyboard using WASD + QE, providing the smooth, sub-angular precision of an analog thumbstick without requiring any special hardware.
 
