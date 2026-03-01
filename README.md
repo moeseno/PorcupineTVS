@@ -104,7 +104,7 @@ function updateMovement() {
 
 ## 🎯 Use Cases
 
-### **3D Staging & Cinematography:**
+### **3D Staging, Cinematography & Video Game Camera Modes:**
 
 Capturing smooth, professional camera pans in 3D viewports usually requires more than just a keyboard to avoid sharp 45° snaps. With PorcupineTVS however, sub-45° pans are easily achievable with the 98-direction logic.
     
@@ -112,15 +112,19 @@ Capturing smooth, professional camera pans in 3D viewports usually requires more
 
 Standard WASD only provides you with 8 directions to move in. This restriction often forces zig-zaggy movement or constant mouse movement when navigating curved paths or when looking at a slightly off center landmark, which can often break immersion. PorcupineTVS alleviates this issue by allowing for smoother angular movements each spaced 22.5° apart instead of the usual 45°.
 
-### **Precise Movement in 2D Platformers**
+### **Precise Movement in 2D Platformers:**
 
 Currently, most 2D platformers use "Time-Held" on the jump button for height, but horizontal movement is usually a binary "Max Speed" or "Zero". PorcupineTVS allows for players to smoothly "brake" their jumps by holding their primary direction and trimming with the opposite (holding A, then D after jumping). This way, the player can perform a mid-range jump both smoothly and consistently.
 
-### **Navigation Accessibility**
+### **Better Movement in Games with Isometric & Top-Down Cameras:**
+
+16 movement directions instead of 8 in games with isometric & top-down cameras allows the player to better traverse paths that are at irregular angles, removing the need to constantly tap movement keys.
+
+### **Navigation Accessibility:**
 
 Players with motor impairments who rely mainly on keyboard inputs are often restricted by the traditional 8 directions of movement paired with slow camera panning with arrow keys. PorcupineTVS effectively doubles the amount of movement directions without the use of any specialized hardware, providing an experience more similar to that of using a joystick for those who struggle to use one.
 
-### **A Quality-of-Life Upgrade in 3D Software**
+### **A Quality-of-Life Upgrade in 3D Software:**
 
 Why is this not a default feature/toggle in 3D software such as Blender or Unreal Engine??? 8-directional movement feels extremely limiting/annoying in **creative** 3D Software imo.
 
